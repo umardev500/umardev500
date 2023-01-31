@@ -9,6 +9,9 @@
     </a>
     <a href="https://wa.me/083879154310">
         <img src="https://img.shields.io/badge/Whatsapp-%23128C7E?style=for-the-badge&logo=whatsapp&logoColor=white" alt="LinkedIn Badge"/>
+    <a href="https://telegram.me/umardev500">
+        <img src="https://img.shields.io/badge/Telegram-%23229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
     </a>
   </div>
 </div>
